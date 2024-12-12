@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que estou estudando: </h2>
+<h2 align="left">Tecnologias que estou estudando/estudei: </h2>
 
 ###
 
