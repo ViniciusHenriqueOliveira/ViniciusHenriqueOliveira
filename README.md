@@ -31,5 +31,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" alt="jest logo"  />
 </div>
+<br>
+<div>
+  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ViniciusHenriqueOliveira&show_icons=true&theme=transparent&count_private=true">
+</div>
 
 ###
